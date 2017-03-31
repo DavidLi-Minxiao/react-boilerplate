@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/DavidLi-Minxiao/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/DavidLi-Minxiao/davidli-3#readme",
+  "homepage": "https://github.com/DavidLi-Minxiao/react-boilerplate#readme",
   "dependencies": {
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-react": "^6.23.0",
